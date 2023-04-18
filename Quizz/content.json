@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Javascript Quiz",
+		"quizzNumber": 1,
+		"questions": {
+			"1": {
+				"question": "Which is the purpose of JavaScript?",
+				"answers": {
+					"1": "To style HTML Pages",
+					"2": "To add interactivity to HTML pages",
+					"3": "To perform server side scripting operations"
+				},
+				"correct": "To add interactivy to HTML pages"
+			},
+			"2": {
+				"question": "To insert a JavaScript into an HTML page, which tag is used?",
+				"answers": {
+					"1": "<script='java'>",
+					"2": "<javascript>",
+					"3": "<script>"
+				},
+				"correct": "<script>"
+			},
+			"3": {
+				"question": "Which of the following is correct to write “Hello World” on the web page?",
+				"answers": {
+					"1": "print('Hello World')",
+					"2": "document.write('Hello World')",
+					"3": "response.write('Hello World')"
+				},
+				"correct": "document.write('Hello World')"
+			}
+		}
+	},
+	{
+		"name": "HTML Quiz",
+		"quizzNumber": 2,
+		"questions": {
+			"1": {
+				"question": "What does HTML mean?",
+				"answers": {
+					"1": "It's Swedish for 'Internet'",
+					"2": "Hypertext Markup Language",
+					"3": "Heading To My Land"
+				},
+				"correct": "Hypertext Markup Language"
+			},
+			"2": {
+				"question": "Which is true about the <a> tag?",
+				"answers": {
+					"1": "It has an 'href' attribute",
+					"2": "It can't be nested in a <p> tag",
+					"3": "None of the above"
+				},
+				"correct": "It has an 'href' attribute"
+			},
+			"3": {
+				"question": "Qui de l'oeuf ou de la poule ?",
+				"answers": {
+					"1": "L'oeuf",
+					"2": "La poule",
+					"3": "Un des deux"
+				},
+				"correct": "Un des deux"
+			}
+		}
+	}
+]
